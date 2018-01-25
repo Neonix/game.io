@@ -1,1 +1,9 @@
-vendor/*
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Managed by Composer
+/vendor/
+/composer.phar
+
